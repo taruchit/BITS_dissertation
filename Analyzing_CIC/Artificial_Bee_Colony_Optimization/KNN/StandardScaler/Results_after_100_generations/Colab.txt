@@ -1,0 +1,6 @@
+Best fitness in last scout bee phase:  0.8995505254648343
+Best individual in scout bee phase:  [39, 1]
+Best fitness in memory is greater than best fitness in last scout bee phase
+Best individual is:  [19, 34, 4, 9, 28, 33, 32, 39, 29, 44, 40, 8, 31, 12, 6, 2, 18, 30, 36, 42, 23, 15, 3, 25, 17, 41, 0, 22, 38, 7, 14, 27, 10, 1, 24, 35]
+Selected features: [19, 34, 4, 9, 28, 33, 32, 39, 29, 44, 40, 8, 31, 12, 6, 2, 18, 30, 36, 42, 23, 15, 3, 25, 17, 41, 0, 22, 38, 7, 14, 27, 10, 1, 24, 35]
+Number of features:  36

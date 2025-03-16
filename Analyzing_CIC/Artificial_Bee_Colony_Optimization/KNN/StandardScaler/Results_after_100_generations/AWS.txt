@@ -1,0 +1,2 @@
+Selected features: [31, 27, 20, 0, 42, 38, 41, 8, 39, 32, 10, 40, 12]
+Number of features:  13
